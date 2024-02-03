@@ -29,7 +29,6 @@
 
 # Le Grand Mission:
 Localized AI
-![Le Dragon Rogue](https://arcaneumbra.cent.co/nft/18938)
 
 # Elite Grand Vision:
 GPU Enablded Hardware Ie: "DAI™" ( Decentralized Autonomous Interop™ )
