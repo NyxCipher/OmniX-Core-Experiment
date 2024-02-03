@@ -28,7 +28,8 @@
 4. Execution Of Python Files & Integration Of Maps
 
 # Le Grand Mission:
-Localized AI
+Localized AI && Local Threat Engine ? Local Offensive Guardian
+![Le Dragon Rogue](https://github.com/NyxCipher/OmniX-Core-Experiment/blob/main/LeDragonRogue.jpg?raw=true)
 
 # Elite Grand Vision:
 GPU Enablded Hardware Ie: "DAI™" ( Decentralized Autonomous Interop™ )
