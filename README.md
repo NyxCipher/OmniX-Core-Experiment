@@ -6,7 +6,7 @@
 2. Build TCP Capture & Dump
 3. Build TCP Analysis w/ Wireshark Library
 4. Output Simplex or Simple Analysis Codes
-5. Load MITRE ( Trust Me Here )
+5. Load MITRE: Connect MITRE-DB ( JSON ) To SIEM
 6. Choose Couse of Action
 
 # Mid-Term Goals:
