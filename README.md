@@ -7,7 +7,7 @@
 3. Build TCP Analysis w/ Wireshark Library
 4. Output Simplex or Simple Analysis Codes
 5. Load MITRE: Connect MITRE-DB ( JSON ) To SIEM
-6. Choose Couse of Action
+6. Choose Couse of Action For Defense 
 
 # Mid-Term Goals:
 1. Compare Two Functions Against Eachother - Essentially A <vs> Operator
@@ -28,8 +28,12 @@
 4. Execution Of Python Files & Integration Of Maps
 
 # Le Grand Mission:
-Localized AI && Local Threat Engine ? Local Offensive Guardian
+Localized AI && Local Threat Engine & Local Guardian
 ![Le Dragon Rogue](https://github.com/NyxCipher/OmniX-Core-Experiment/blob/main/LeDragonRogue.jpg?raw=true)
 
 # Elite Grand Vision:
 GPU Enablded Hardware Ie: "DAI™" ( Decentralized Autonomous Interop™ )
+
+or 
+
+...
